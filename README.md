@@ -1,2 +1,2 @@
-# hello-worls
-Test for Matering Class
+# hello-world
+Test for Mastering Class
